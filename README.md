@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-<!--
-**albertovasconcelos/albertovasconcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Alberto de Vasconcelos, atualmente estudante  e acompanhar tudo o que é relacionado a tecnologia e informática. Amo o Senhor Jesus Cristo e também adoro artes.
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://gpvc.arturio.dev/albertovasconcelos" alt="profile views">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Minhas redes:
+<ul>
+  <li>
+    <img src="https://user-images.githubusercontent.com/30157522/87161461-f33f8580-c29a-11ea-8686-34eb06e44501.png" width="18" alt="Twitter"> 
+    <a href="https://twitter.com/AlbertoTocant" target="_blank" title="My Twitter">Twitter</a>
+  </li>
+  <li>
+    <img src="https://user-images.githubusercontent.com/30157522/87161827-6cd77380-c29b-11ea-902a-725eeed60745.png" width="18" alt="Linkedin"> 
+    <a href="https://www.linkedin.com/in/alberto-vasconcelos-s-filho/" target="_blank" title="My LinkedIn">LinkedIn</a>
+  </li>
+</ul>
