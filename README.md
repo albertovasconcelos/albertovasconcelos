@@ -1,10 +1,14 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Alberto de Vasconcelos, atualmente estudante  e acompanhar tudo o que é relacionado a tecnologia e informática. Amo o Senhor Jesus Cristo e também adoro artes.
+Meu nome é Alberto de Vasconcelos Santos Filho, atualmente cursando Análise e Desenvolvimento de Sistemas pela Unopar.
+Amo o Senhor Jesus Cristo, me interesso por desenvolvimento de softwares e também adoro artes.
+
+Aqui estarei postando projetos e códigos de software de acordo com meus estudos.
 
 <p>
   <img src="https://gpvc.arturio.dev/albertovasconcelos" alt="profile views">
 </p>
+
 
 ### Minhas redes:
 <ul>
