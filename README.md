@@ -1,16 +1,16 @@
 ### Hi guys, welcome to my GitHub 👋
 
-My name is Alberto de Vasconcelos Santos Filho, currently studying Systems Analysis and Development at Unopar University.
+:sunglasses: My name is Alberto de Vasconcelos Santos Filho, currently studying Systems Analysis and Development at Unopar University.
 I am a Christian, father of Maria Valentina, I am interested in software development and I also love arts.
 
-Here I will be posting projects and software codes according to my studies.
+:octocat: Here I will be posting projects and software codes according to my studies.
 
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Alberto de Vasconcelos Santos Filho, atualmente cursando Análise e Desenvolvimento de Sistemas pela universidade Unopar.
+:sunglasses: Meu nome é Alberto de Vasconcelos Santos Filho, atualmente cursando Análise e Desenvolvimento de Sistemas pela universidade Unopar.
 Sou cristão, pai da Maria Valentina, me interesso por desenvolvimento de softwares e também adoro artes.
 
-Aqui estarei postando projetos e códigos de software de acordo com meus estudos.
+:octocat: Aqui estarei postando projetos e códigos de software de acordo com meus estudos.
 
 
 
