@@ -8,7 +8,7 @@ I'm a Christian, Maria Valentina's father, studying software development and I a
 
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-:sunglasses: Meu nome é Alberto Vasconcelos, gosto de ler e acredito nas mais diversas tecnlogias como ferramenta para o desenvolvimento humano e negócios em geral.
+:sunglasses: Meu nome é Alberto Vasconcelos, gosto de ler e acredito nas mais diversas tecnologias como ferramenta para o desenvolvimento humano e negócios em geral.
 
 Sou cristão, pai da Maria Valentina, estudando desenvolvimento de softwares e também adoro artes.
 
